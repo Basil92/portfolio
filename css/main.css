@@ -111,6 +111,11 @@ header h1 {
 .contacts a {
 	border-bottom: 2px dotted;
 }
+.contacts a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+
 .contact_info{
 	font-size: 1.125rem;
 	font-family: "fira_sansregular";
